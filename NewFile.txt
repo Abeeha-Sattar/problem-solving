@@ -1,10 +1,3 @@
-<<<<<<< Upstream, based on branch 'main' of https://github.com/Abeeha-Sattar/problem-solving.git
 This is a new file!
-<<<<<<< Upstream, based on branch 'main' of https://github.com/Abeeha-Sattar/problem-solving.git
 Editing from GitHub!!
-=======
-HHHHHHHHHHHHHHHHHHHHH
->>>>>>> ef94bf9 Com
-=======
-This is a new file!
->>>>>>> a38523e Com
+
